@@ -1,9 +1,22 @@
-<p style="font-size: 16px;">Cash-Management-System</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Project Info</title>
+    <style>
+        .bold-black {
+            color: black;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <p class="bold-black">Cash Management System – Wholesale Banking Project</p>
+    <p class="bold-black">Author: Ajinath Phalk</p>
+</body>
+</html>
 
-Cash Management System – Wholesale Banking Project
-<br>
-Author : Ajinath Phalke
-<br>
+
 --Simple code for Copying files from one locstion to another location--
 # Define source and destination folders
 $source = "D:\CMS"
