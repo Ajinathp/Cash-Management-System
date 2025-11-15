@@ -1,9 +1,7 @@
 -----------------------------------------------------------------------------------------
-<p style="font-size: 16px;">Cash-Management-System</p>
-Cash Management System – Wholesale Banking Project
-<br>
+
+<p style="font-size: 16px;">Cash Management System – Wholesale Banking Project</p>
 Author : Ajinath Phalke
-<br>
 
 ------------------------------------------------------------------------------------------
 
