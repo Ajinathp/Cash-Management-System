@@ -50,5 +50,14 @@ if __name__ == "__main__":
 git commit -m "Removed copy_local_to_github.py script"
 
 
+import tarfile
+
+with tarfile.open("backup.tar", "w") as tar:
+    tar.add("file1.txt")
+
+print("Tar file created")
+
+
+
 
 
