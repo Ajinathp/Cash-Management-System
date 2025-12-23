@@ -46,3 +46,6 @@ if __name__ == "__main__":
 
     git_push(GITHUB_REPO_DIR, COMMIT_MESSAGE)
     print("Changes committed and pushed to GitHub")
+
+git commit -m "Removed copy_local_to_github.py script"
+
